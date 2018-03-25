@@ -1,0 +1,37 @@
+body {
+  font-family: 'Microsoft Yahei';
+  font-size: 12px;
+  margin: 0;
+}
+
+body h4 {
+  margin: 0;
+  padding: 10px;
+  background-color: #aaa;
+  color: #fff;
+  text-align: center;
+}
+
+.demo {
+  width: 500px;
+  margin: 20px auto;
+}
+
+.demo .parent {
+  padding: 16px;
+  background-color: #eee;
+}
+
+.demo .middle {
+  padding: 16px;
+  background-color: #ccc;
+}
+
+.demo .child {
+  padding: 16px;
+  background-color: #aaa;
+}
+
+.demo p {
+  margin-top: 0;
+}
